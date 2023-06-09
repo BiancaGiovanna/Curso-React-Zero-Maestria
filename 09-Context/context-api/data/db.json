@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "name": "Teclado",
+      "price": "400",
+      "id": 1
+    },
+    {
+      "name": "Mouse",
+      "price": "120",
+      "id": 2
+    },
+    {
+      "name": "Caxinha de som",
+      "price": "180",
+      "id": 3
+    },
+    {
+      "name": "Controle",
+      "price": "80",
+      "id": 4
+    },
+    {
+      "name": "Hd Externo",
+      "price": "400",
+      "id": 5
+    },
+    {
+      "name": "HeadSet",
+      "price": "180",
+      "id": 6
+    },
+    {
+      "name": "Placa de video",
+      "price": "1500",
+      "id": 7
+    },
+    {
+      "name": "Memoria RAM 16Gb",
+      "price": "400",
+      "id": 8
+    },
+    {
+      "name": "Processador",
+      "price": "600",
+      "id": 9
+    }
+  ]
+}
